@@ -1,0 +1,107 @@
+Start Section: <<alpha
+Section: Puzzle
+Assignment: =
+Start Puzzle: {
+Tile: 1
+Tile: 34
+Tile: 55
+Tile: 19
+Tile: 7
+End Row: $
+Tile: 5
+Tile: 43
+Tile: 9
+Tile: 45
+Tile: 32
+End Row: $
+Tile: 53
+Tile: 16
+Tile: 38
+Tile: 51
+Tile: 50
+End Row: $
+Tile: 26
+Tile: 36
+Tile: 59
+Tile: 21
+Tile: 3
+End Row: $
+Tile: 62
+Tile: 13
+Tile: 0
+Tile: 46
+Tile: 56
+End Row: $
+Tile: 64
+Tile: 41
+Tile: 33
+Tile: 31
+Tile: 23
+End Row: $
+Tile: 48
+Tile: 35
+Tile: 49
+Tile: 52
+Tile: 18
+End Row: $
+Tile: 11
+Tile: 15
+Tile: 4
+Tile: 54
+Tile: 29
+End Row: $
+Tile: 44
+Tile: 39
+Tile: 10
+Tile: 63
+Tile: 2
+End Row: $
+Tile: 58
+Tile: 24
+Tile: 27
+Tile: 40
+Tile: 37
+End Row: $
+Tile: 30
+Tile: 8
+Tile: 25
+Tile: 42
+Tile: 28
+End Row: $
+Tile: 60
+Tile: 20
+Tile: 14
+Tile: 57
+Tile: 22
+End Row: $
+Tile: 61
+Tile: 12
+Tile: 6
+Tile: 47
+Tile: 17
+End Puzzle: }
+End Section: omega>>
+Start Section: <<alpha
+Section: Moves
+Assignment: =
+Move: r
+Move: d
+Move: l
+Move: d
+Move: d
+Move: d
+Move: r
+Move: u
+Move: d
+Move: l
+Move: l
+Move: u
+Move: l
+Move: d
+Move: r
+Move: r
+Move: u
+Move: r
+Move: u
+End Section: omega>>
+End of File
