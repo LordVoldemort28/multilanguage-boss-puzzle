@@ -20,7 +20,7 @@ puzzleSolvable puzzle = (mod (length puzzle) 2) == 0
 
 getInversion' :: Int -> [Int] -> Int
 getInversion' count _ = count
-getInversion' count (x : xs) = count + getInversion' (getInversion x xs) xs
+getInversion' count (x : xs) = count + getInversion' (getInversion 0 x xs) xs
 
 getInversion :: Int -> Int -> [Int] -> Int
 getInversion count _ [] = count
