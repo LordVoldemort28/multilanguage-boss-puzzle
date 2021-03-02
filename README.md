@@ -9,4 +9,4 @@ Class project to explore different types of languages fundamentally.
 3. [Haskell - Functional Programming](https://www.haskell.org)
 4. [Prolog - Logical Programming](https://www.swi-prolog.org)
 
-**Note:** Please use this repository just as a reference. Copying the code may result in a violation of academic integrity. 
+**Note:** Please use this repository just as a reference. Copying the code may result in a violation of academic integrity and I won't take any responsiblity. 
